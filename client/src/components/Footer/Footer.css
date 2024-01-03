@@ -1,0 +1,11 @@
+footer{
+    padding: 3.2rem;
+    text-align: center;
+    background-color: var(--bg-color);
+    margin-top: auto;
+    /* color: black; */
+}
+p{
+    
+    color: white;
+}
